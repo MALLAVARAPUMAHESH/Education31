@@ -20,8 +20,9 @@ Problem Statement/Opportunity : THE BEST PLACE FOR
 EDUCATION
 
 
-Project Description : EDUCATION FOR A
+Project Description : BETTER EDUCATION FOR A
 BETTER WORLD
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
